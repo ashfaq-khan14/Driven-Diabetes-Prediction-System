@@ -66,6 +66,8 @@
 ---
 
 # Diabetic Prediction
+  ![WhatsApp Image 2024-02-28 at 21 39 01_3683f641](https://github.com/ashfaq-khan14/diabaties-prediction/assets/120010803/460ac1a7-884e-4e94-97fa-d138f4e24145)
+
 
 ## Overview
 This project focuses on predicting the likelihood of a person developing diabetes based on various health indicators. By analyzing features such as glucose levels, blood pressure, and body mass index (BMI), the model can accurately classify individuals as either diabetic or non-diabetic, enabling early detection and intervention for at-risk individuals.
